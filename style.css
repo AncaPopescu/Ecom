@@ -1,0 +1,32 @@
+.col-md-4 h3{
+  color: white;
+}
+.col-md-4 p{
+  color: white;
+}
+.img-thumb {
+  height: 100px !important;
+  width: auto;
+}
+#footer {
+  margin-top:50px;
+}
+img.details {
+  width: 33%;
+  margin: 15px auto;
+}
+.media {
+  float: right;
+}
+.table-auto {
+  width: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+.table-auto p {
+  text-align: center;
+}
+.savedimage img {
+  width: auto;
+  height: 300px;
+}

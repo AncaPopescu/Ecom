@@ -1,0 +1,9 @@
+{
+  "type": "sftp",
+  "host": "192.168.18.153",
+  "username": "practica",
+  "password": "1234",
+  "port": 22,
+  "remotePath": "/var/www/html/anca/ezra",
+  "uploadOnSave": true
+}
